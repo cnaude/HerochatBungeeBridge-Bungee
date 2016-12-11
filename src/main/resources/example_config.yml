@@ -1,0 +1,15 @@
+# Set this to true to enable the whitelist/blacklist part of the plugin.
+filter: false
+
+# If this is set to true the plugin will whitelist the specified channels. Otherwise, it will blacklist them.
+whitelist: true
+
+# List the channels here that you wish to be involved in the whitelist/blacklist process.
+channels:
+- ExampleChannel
+
+# Set this to true to log all messages to the console.
+log: false
+
+# Set this to true to log only messages that pass the filter in the console.
+log_filter: false

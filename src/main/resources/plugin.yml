@@ -1,0 +1,4 @@
+name: BungeeChatBungee
+main: com.jumanjicraft.bungeechat.BungeeChat
+version: ${project.version}
+author: KoolKrafter
